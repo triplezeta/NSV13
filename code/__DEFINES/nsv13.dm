@@ -43,4 +43,4 @@ GLOBAL_DATUM_INIT(conquest_role_handler, /datum/conquest_role_handler, new)
 #define KELVIN_TO_CELSIUS(A) (A-273.15)
 #define MEGAWATTS /1e+6
 
-#define YEAR_OFFSET "241"
+#define YEAR_OFFSET 241
