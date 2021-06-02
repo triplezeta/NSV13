@@ -44,3 +44,4 @@ GLOBAL_DATUM_INIT(conquest_role_handler, /datum/conquest_role_handler, new)
 #define MEGAWATTS /1e+6
 
 #define YEAR_OFFSET 241
+
